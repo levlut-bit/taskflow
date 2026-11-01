@@ -4,7 +4,7 @@
 
 **Мінімалістичний To-Do менеджер для тих, хто живе в терміналі.**
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/username/taskflow/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/username/taskflow/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/levlut-bit/taskflow/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/levlut-bit/taskflow/actions)
 [![npm version](https://img.shields.io/npm/v/taskflow-cli?style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/taskflow-cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
@@ -186,7 +186,7 @@ taskflow/
 
 ## 👥 Автори
 
-| [<img src="https://github.com/username.png" width="80" alt="avatar"><br><sub>@username</sub>](https://github.com/username) |
+| [<img src="https://github.com/username.png" width="80" ><br><sub>levlut-bit</sub>](https://github.com/username) |
 |:---:|
 | 💻 Розробка · 📖 Документація |
 
